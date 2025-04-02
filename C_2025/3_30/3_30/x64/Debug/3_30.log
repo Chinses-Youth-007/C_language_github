@@ -1,0 +1,7 @@
+﻿  3_30test.c
+C:\Users\24139\Desktop\study\3_30\3_30\3_30test.c(46,12): error C2371: “q”: 重定义；不同的基类型
+      C:\Users\24139\Desktop\study\3_30\3_30\3_30test.c(33,6):
+      参见“q”的声明
+  
+C:\Users\24139\Desktop\study\3_30\3_30\3_30test.c(48,15): warning C4091: “ ”: 没有声明变量时忽略“__int64”的左侧
+C:\Users\24139\Desktop\study\3_30\3_30\3_30test.c(43,16): warning C4305: “初始化”: 从“double”到“float”截断

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\24139\\Desktop\\study\\study\\4_22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4989EB9-2A0E-4C98-8501-B32389B2B47C}|4_22\\4_22.vcxproj|C:\\Users\\24139\\Desktop\\study\\study\\4_22\\4_22\\4_22dailystudy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4989EB9-2A0E-4C98-8501-B32389B2B47C}|4_22\\4_22.vcxproj|solutionrelative:4_22\\4_22dailystudy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4_22dailystudy.cpp",
+              "DocumentMoniker": "C:\\Users\\24139\\Desktop\\study\\study\\4_22\\4_22\\4_22dailystudy.cpp",
+              "RelativeDocumentMoniker": "4_22\\4_22dailystudy.cpp",
+              "ToolTip": "C:\\Users\\24139\\Desktop\\study\\study\\4_22\\4_22\\4_22dailystudy.cpp",
+              "RelativeToolTip": "4_22\\4_22dailystudy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T12:24:33.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
